@@ -1,4 +1,6 @@
-# MotrixLab 第一周课后选择题
+# Motriclab_RLlab
+
+MotrixLab 第一周课后选择题与已核对答案。
 
 第五期「强化学习与 MotrixLab 入门」第 1～4 讲，40 道单选题，每题 2.5 分，共 100 分。
 
